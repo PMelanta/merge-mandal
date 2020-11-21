@@ -21,7 +21,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ThunderBirdDeveloupment/staticweb.github.io.git"
+        "url": "https://github.com/PMelanta/merge-mandal.git"
     },
     "dependencies": {
         "bootstrap": "4.5.0",
